@@ -1,1 +1,1 @@
-readmeeeeeeaa
+This is my second week of python. I'm doing it ////
